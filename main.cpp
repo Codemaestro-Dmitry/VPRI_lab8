@@ -2,7 +2,7 @@
 #include"sdt.h"
 
 using namespace std;
-
+//Это учебная программа
 int main()
 {
 	int a, b;
