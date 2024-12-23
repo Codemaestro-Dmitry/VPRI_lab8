@@ -11,4 +11,5 @@ int main()
 	cout << "inpute second digit: ";
 	cin >> b;
 	cout << "Result: " << a + b;
+	cout << "\nYour digits: " << a << " and " << b;
 }
