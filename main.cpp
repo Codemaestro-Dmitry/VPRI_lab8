@@ -14,4 +14,5 @@ int main()
 	cout << "\nYour digits: " << a << " and " << b;
 	cout << "\nResult(minus): " << a - b;
 	cout << "\nResult(*): " << a * b;
+	cout << "\nResult(/): " << a / b;
 }
